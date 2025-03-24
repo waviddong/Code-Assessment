@@ -1,0 +1,23 @@
+Bond_ID,WAL_(years),Yield_(%),Sector,Spread
+Bond A,1.0,8.63,Telecommunication,3.8400000000000007
+Bond B,1.5,7.95,Consumer Staples,3.4400000000000004
+Bond C,2.2,7.53,Utilities,3.3440000000000003
+Bond D,3.0,7.71,Financials,3.7
+Bond E,4.0,8.45,Telecommunication,4.5249999999999995
+Bond F,5.0,7.74,Consumer Staples,3.9000000000000004
+Bond G,6.2,7.66,Utilities,3.7960000000000003
+Bond H,8.0,8.03,Financials,4.1499999999999995
+Bond I,9.0,8.33,Telecommunication,4.45
+Bond J,4.5,7.38,Consumer Staples,3.4975
+Bond K,1.3,8.55,Telecommunication,3.928000000000001
+Bond L,2.0,7.73,Consumer Staples,3.5
+Bond M,2.8,7.61,Utilities,3.556
+Bond N,3.5,7.75,Financials,3.7825
+Bond O,5.3,8.64,Telecommunication,4.7940000000000005
+Bond P,6.0,7.56,Consumer Staples,3.6999999999999997
+Bond Q,7.5,7.83,Utilities,3.95
+Bond R,8.5,8.23,Financials,4.3500000000000005
+Bond S,5.2,8.34,Telecommunication,4.496
+Bond T,2.5,7.21,Consumer Staples,3.09
+Bond U,6.8,7.53,Utilities,3.6540000000000004
+Bond V,7.8,7.63,Financials,3.75
